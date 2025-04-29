@@ -62,10 +62,10 @@ Arkadas 102 104
 Arkadas 103 104
 Arkadas 104 105
 ```
-#Derleme
+##Derleme
 gcc sosyal_ag.c -o sosyal_ag
 ./sosyal_ag
-#Notlar
+##Notlar
 MAX_KULLANICI sabiti 100 olarak tanımlanmıştır, dilerseniz artırabilirsiniz.
 
 Kırmızı-Siyah Ağaç yapısı, kullanıcı aramalarının log(n) sürede gerçekleşmesini sağlar.
